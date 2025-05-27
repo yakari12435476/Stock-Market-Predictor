@@ -1,8 +1,7 @@
-pip== 25.1.1
-numpy== 1.26.0
-pandas== 2.1.0
-yfinance== 0.2.61
-keras== 3.10.0
-streamlit== 1.45.1
-matplotlib== 3.8.2
-scikit-learn== 1.6.1
+numpy
+pandas
+yfinance
+keras
+streamlit
+matplotlib
+scikit-learn
