@@ -13,7 +13,7 @@ model = load_model('Stock Predictions Model.keras', compile=False)
 st.header('📈 Stock Market Predictor')
 
 # Input: Stock Symbol
-stock = st.text_input('Enter Stock Symbol', 'GOOG')
+stock = st.text_input('Enter Stock Symbol')
 
 # Date range
 start = '2012-01-01'
